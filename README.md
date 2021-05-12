@@ -20,3 +20,13 @@ In this notebook we will explore Data of a canadian superstore that exists in di
 * People tend to buy more by the end of the year since the statistics shows that people buy more in the 4th quarter of each year
 * The store can make more money when sending products to far areas which requires high cost of shipping 
 * Best market per sales is APAC which is Asia pcific markets
+
+# [Project 3: Advetising agency users behavior prediction](https://github.com/Aellawah/Advetising-agency-users-behavior-prediction/blob/main/Advertising%20agency%20dataset.ipynb)
+
+In this project we will be working with an advertising data set, We are trying to enhance the criteria of the customers that we target with our ads so based on specific features about our customers such as Age,income,city,Gender,.. and other features We will create a model that predicts whether or not they will click on an our ads.
+
+After wrangling our data we found was some outliers in 'Area income' column which we removed them to enhance our model
+We have noticed that older people tend to click more on our ads than youth
+The more the time people spend on internet the likely they click on our ads
+The more the person gets old the less income he gets
+We have fitted our data on a Logistic Regression model and Decision tree classification model
