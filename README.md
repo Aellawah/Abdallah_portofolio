@@ -21,7 +21,7 @@ In this notebook we will explore Data of a canadian superstore that exists in di
 * The store can make more money when sending products to far areas which requires high cost of shipping 
 * Best market per sales is APAC which is Asia pcific markets
 
-# [Project 3: Advetising agency users behavior prediction](https://github.com/Aellawah/Advetising-agency-users-behavior-prediction/blob/main/Advertising%20agency%20dataset.ipynb)
+# [Project 3: Advetising agency users behavior prediction](https://github.com/Aellawah/Advetising-agency-users-behaviorprediction/blob/main/Advertising%20agency%20dataset.ipynb)
 
 In this project we will be working with an advertising data set, We are trying to enhance the criteria of the customers that we target with our ads so based on specific features about our customers such as Age,income,city,Gender,.. and other features We will create a model that predicts whether or not they will click on an our ads.
 
@@ -30,3 +30,11 @@ In this project we will be working with an advertising data set, We are trying t
 * The more the time people spend on internet the likely they click on our ads
 * The more the person gets old the less income he gets
 * We have fitted our data on a Logistic Regression model and Decision tree classification model
+
+# [Project 4: The Movie database analysis](https://github.com/Aellawah/The-Movie-database-analysis-/blob/main/TMDB.ipynb)
+
+In this notebook, I will investigate the TMDB mavie dataset, The Movie Database (TMDB) is a popular user editable database for movies and TV shows, It has columns for variables such as release year, revenue, budget, director, runtime, and popularity, as well as the IMDB ID for each entry.
+
+
+
+
