@@ -36,5 +36,3 @@ In this project we will be working with an advertising data set, We are trying t
 In this notebook, I will investigate the TMDB mavie dataset, The Movie Database (TMDB) is a popular user editable database for movies and TV shows, It has columns for variables such as release year, revenue, budget, director, runtime, and popularity, as well as the IMDB ID for each entry.
 
 
-
-
