@@ -43,3 +43,7 @@ In this notebook, we will try to build a model to predict the prices of diamonds
 
 # [Project 6: Udemy courses analysis](https://github.com/Aellawah/Udemy-Dataset/blob/main/Udemy.ipynb)
 ![](Images/udemy-free-courses-banner.png)
+
+# [Project 7: Londo](https://github.com/Aellawah/London-housing-data/blob/main/Londing%20Housing%20Data.ipynb)
+![](Images/udemy-free-courses-banner.png)
+Images/1835445_London-houses-136327763-Nadina-shutterstock.jpg
