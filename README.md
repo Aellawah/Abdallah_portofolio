@@ -88,7 +88,3 @@ Some of our conclusions was:
 * Top 5 areas with hight crimes numbers are barking and dagenham with 2049.0 crimes,barnet with 2893.0 crimes,bexley with 1914.0 crimes,brent with 2937.0 crimes and bromley with 2637.0 crimes.
 * Most year that had crimes is 1996 with total of 542 Crimes.
 * Least year that had crimes is 2020 with total of 45 Crimes.
-* Top five areas with highest sum of houses sold are england with 23077637 ,south east with 4195116,london with 3134378,north west with 2895280 and east of england with 2809800.0.
-* Top five areas with lowest sum of houses sold are city of london with 7586,barking and dagenham with 59498,hackney with 65356,islington= with 68271,camden with 74362.
-* We can interpret from the Visual and pearson correlation of -0.17 that there is a -ve relationship between them , which means Average price has nothing to do with the number of houses sold
-* We can interpret from the Visual after aggregating each unique year with its corresponding total sum of no. of crimes and calculating their pearson correlation coefficient wich represents the Strength of the relationhsip between them which was 0.48 which indicates a +ve relationship between them , which means there is a positive relationship between no. of crimes and the advancement of the years.
