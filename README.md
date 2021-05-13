@@ -1,13 +1,7 @@
 Abdallah_portofolio
 Data science portfolio
 
-# [Project 1: Airline fare prices prediction](https://github.com/Aellawah/Airline-fare-prices-prediction/blob/main/Airline%20prices%20prediction.ipynb)
-![](/Images/WWS-AirlinesAirports-720x300.jpg)
-
-Passengers want to check for flights fare prices in different airlines according to number of stops during their fights , so throught this dataset which consists of flights information of different airlines we will train our Machine learning model to predict prices for every flight based on specific features that we can reflect to users.
-
-
-# [Project 2: Canadian superstore sales analysis](https://github.com/Aellawah/Canadian-superstore-sales-analysis/blob/main/Canadian%20Superstore%20sales.ipynb)
+# [Project 1: Canadian superstore sales analysis](https://github.com/Aellawah/Canadian-superstore-sales-analysis/blob/main/Canadian%20Superstore%20sales.ipynb)
 ![](Images/BLOG_deliver-better-online-grocery-shopping.jpg)
 
 In this notebook we will explore Data of a canadian superstore that exists in different places around the world and try to gain some insights about the business and the most selling products.
@@ -19,6 +13,15 @@ In this notebook we will explore Data of a canadian superstore that exists in di
 * The store can make more money when sending products to far areas which requires high cost of shipping 
 * Best market per sales is APAC which is Asia pcific markets
 
+
+# [Project 2: Airline fare prices prediction](https://github.com/Aellawah/Airline-fare-prices-prediction/blob/main/Airline%20prices%20prediction.ipynb)
+![](/Images/WWS-AirlinesAirports-720x300.jpg)
+
+Passengers want to check for flights fare prices in different airlines according to number of stops during their fights , so throught this dataset which consists of flights information of different airlines we will train our Machine learning model to predict prices for every flight based on specific features that we can reflect to users.
+
+* After wrangling the data we have changed the data columns types to fit our analysis and removed null values records.
+* we applied feature engineering on several columns to extract values from them and include them in our machine learning model such as dividing date columns into years months days and seperating categorical columns into seperate values that can be used idividually in our model, used label encoding for ordinal data and hot encoding for nominal data
+* we fitted the data after transformation on Random Forest Regressor model which gave us a pretty good results.
 
 # [Project 3: Advetising agency users behavior prediction](https://github.com/Aellawah/Advetising-agency-users-behavior-prediction/blob/main/Advertising%20agency%20dataset.ipynb)
 ![](Images/marketing.png)
@@ -35,6 +38,8 @@ In this project we will be working with an advertising data set, We are trying t
 ![](Images/clapperboard-movie_101884-274.jpg)
 
 In this notebook, I will investigate the TMDB mavie dataset, The Movie Database (TMDB) is a popular user editable database for movies and TV shows, It has columns for variables such as release year, revenue, budget, director, runtime, and popularity, as well as the IMDB ID for each entry.
+
+*
 
 # [Project 5: Diamonds prices prediction](https://github.com/Aellawah/Diamonds-prices-prediction/blob/main/Diamonds%20prices%20prediction.ipynb)
 ![](Images/Hero_Cut_700x394.jpg)
