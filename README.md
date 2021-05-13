@@ -39,7 +39,12 @@ In this project we will be working with an advertising data set, We are trying t
 
 In this notebook, I will investigate the TMDB mavie dataset, The Movie Database (TMDB) is a popular user editable database for movies and TV shows, It has columns for variables such as release year, revenue, budget, director, runtime, and popularity, as well as the IMDB ID for each entry.
 
-*
+* we have conluded that people tend to like movies more along the years since the popularity and interest increased from 2005 to 2015 
+* Movies are becoming shorter over the time as the statistics shows that the runtime of the movie decreased along the years from 2005 until 2015 
+* Revenues from movies are increasing along the years which is also related to popularity of the movies along the years
+* Number of movies produced every year increased along the years
+* Even though it seems that the revenue is increasing with budget on some level, it is clear that some of the most profitable movies had budgets lower than average.
+* It seems that more popular movies produce more revenue. However, some popular movies are not necessarily profitable, and vice versa.
 
 # [Project 5: Diamonds prices prediction](https://github.com/Aellawah/Diamonds-prices-prediction/blob/main/Diamonds%20prices%20prediction.ipynb)
 ![](Images/Hero_Cut_700x394.jpg)
