@@ -42,4 +42,4 @@ In this notebook, I will investigate the TMDB mavie dataset, The Movie Database 
 In this notebook, we will try to build a model to predict the prices of diamonds based on various features of diamond like carat weight, cut quality ,etc.
 
 # [Project 6: Udemy courses analysis](https://github.com/Aellawah/Udemy-Dataset/blob/main/Udemy.ipynb)
-![](Images/Udemy.png)
+![](Images/udemy-free-courses-banner.png)
