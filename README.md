@@ -39,3 +39,5 @@ In this notebook, I will investigate the TMDB mavie dataset, The Movie Database 
 # [Project 5: Diamonds prices prediction](https://github.com/Aellawah/Diamonds-prices-prediction/blob/main/Diamonds%20prices%20prediction.ipynb)
 ![](Images/Hero_Cut_700x394.jpg)
 
+In this notebook, we will try to build a model to predict the prices of diamonds based on various features of diamond like carat weight, cut quality ,etc.
+
