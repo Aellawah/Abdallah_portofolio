@@ -37,5 +37,5 @@ In this project we will be working with an advertising data set, We are trying t
 In this notebook, I will investigate the TMDB mavie dataset, The Movie Database (TMDB) is a popular user editable database for movies and TV shows, It has columns for variables such as release year, revenue, budget, director, runtime, and popularity, as well as the IMDB ID for each entry.
 
 # [Project 5: Diamonds prices prediction](https://github.com/Aellawah/Diamonds-prices-prediction/blob/main/Diamonds%20prices%20prediction.ipynb)
-![](Images/4b97fdd9e90c7563b21a7367ca10c1365b1808db0a2772.45283898.jpeg)
+![](Images/diamond-3342797.jpg)
 
