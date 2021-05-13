@@ -10,7 +10,7 @@ Passengers want to check for flights fare prices in different airlines according
 * Seperated years and months and days from date columns to include them in the model
 * We fitted our final data on RandomForestRegressor model
 
-:[](//Images//WWS-AirlinesAirports-720x300.jpg)
+![](/Images/WWS-AirlinesAirports-720x300.jpg)
 
 # [Project 2: Canadian superstore sales analysis](https://github.com/Aellawah/Canadian-superstore-sales-analysis/blob/main/Canadian%20Superstore%20sales.ipynb)
 
