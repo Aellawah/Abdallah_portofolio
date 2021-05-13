@@ -32,7 +32,7 @@ In this project we will be working with an advertising data set, We are trying t
 * We have fitted our data on a Logistic Regression model and Decision tree classification model
 
 # [Project 4: The Movie database analysis](https://github.com/Aellawah/The-Movie-database-analysis-/blob/main/TMDB.ipynb)
-![](Images/movies.png)
+![](Images/clapperboard-movie_101884-274.jpg)
 
 In this notebook, I will investigate the TMDB mavie dataset, The Movie Database (TMDB) is a popular user editable database for movies and TV shows, It has columns for variables such as release year, revenue, budget, director, runtime, and popularity, as well as the IMDB ID for each entry.
 
