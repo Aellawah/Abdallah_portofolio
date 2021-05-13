@@ -62,7 +62,8 @@ some of the conclusions
 
 This Data set contains 3000+ entries for all courses data & subjects in Udemy application which we need to investigate to answer questions about subscribers and courses prices
 How many courses for each subject is udemy offering?
-questions that we want to answer ae 
+
+Questions that we want to answer are:
 
 * Which subject has the maximum number of Courses?
 * How many free courses are there for every subject?
@@ -76,7 +77,10 @@ questions that we want to answer ae
 
 # [Project 7: London housing prices](https://github.com/Aellawah/London-housing-data/blob/main/Londing%20Housing%20Data.ipynb)
 ![](Images/1835445_London-houses-136327763-Nadina-shutterstock.jpg)
-questions that we want to answer are:
+
+This data set contains 13000+ wich is centered around london housing market, it contains alot of additional relevant data related to Averge housing prices , number of houses sold , number of crimes committed
+
+Questions that we want to answer are:
 
 * How many records are there where the crimes are zero in England?
 * What is the Minimum Average price per year in England?
