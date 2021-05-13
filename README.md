@@ -52,14 +52,39 @@ In this notebook, I will investigate the TMDB mavie dataset, The Movie Database 
 In this notebook, we will try to build a model to predict the prices of diamonds based on various features of diamond like carat weight, cut quality ,etc.
 some of the conclusions
 
-* After wrangling the data we founf that there were no null values in the data ,there were no duplicated rows in the data
-* There were some outliers in the features which we removed them
-* categorical values were unique and not repeated in other forms
-* We have fitted the data after transforming on a Linear regression model which gave us R2 of 89% 
-* We have fitted the data after transforming on a RandomForestRegressor which gave us R2 of 98%
+* After wrangling the data we found that there were no null values in the data ,there were no duplicated rows in the data,There were some outliers in the features which we removed them
+* We constructed features engineering on categorical columns in our dataset to utitlize them in our model
+* After transforming the data We have fitted the data on a Linear regression model which gave us R2 of 89% 
+* We tried to use another model that would enhance the previous results so we used Random Forest Regressor which gave us R2 of 98%
 
 # [Project 6: Udemy courses analysis](https://github.com/Aellawah/Udemy-Dataset/blob/main/Udemy.ipynb)
 ![](Images/udemy-free-courses-banner.png)
 
+This Data set contains 3000+ entries for all courses data & subjects in Udemy application which we need to investigate to answer questions about subscribers and courses prices
+How many courses for each subject is udemy offering?
+questions that we want to answer ae 
+
+* Which subject has the maximum number of Courses?
+* How many free courses are there for every subject?
+* How many paid courses are there for every subject?
+* What are the Top selling books?
+* What the courses that are pubished in year 2015?
+* What is the maximum number of Subscribers for each level of courses?
+* Is there a relationship between number of lectures and number of subscribers?
+* Is there a relationship between the price of the course and the number of subscribers
+* What is the kind of relationship between price and number of lectures
+
 # [Project 7: London housing prices](https://github.com/Aellawah/London-housing-data/blob/main/Londing%20Housing%20Data.ipynb)
 ![](Images/1835445_London-houses-136327763-Nadina-shutterstock.jpg)
+questions that we want to answer are:
+
+* How many records are there where the crimes are zero in England?
+* What is the Minimum Average price per year in England?
+* What is the Maximum Average price per year in England?
+* What are the Most 5 areas that has high number of crimes?
+* What is the Relationship between the Average Price and the number of houses sold ?
+* What is the Most year that had crime cases?
+* What is the Least year that had crime cases?
+* How many houses were sold in every area?
+* What the is the Top Five areas that sold houses along the years?
+* What the is the Least Five areas that sold houses along the years?
