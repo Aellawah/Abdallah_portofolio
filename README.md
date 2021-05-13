@@ -2,7 +2,7 @@ Abdallah_portofolio
 Data science portfolio
 
 # [Project 1: Canadian superstore sales analysis](https://github.com/Aellawah/Canadian-superstore-sales-analysis/blob/main/Canadian%20Superstore%20sales.ipynb)
-![](Images/BLOG_deliver-better-online-grocery-shopping.jpg)
+![](Images/real-canadian-superstore-3000-lougheed-hwy-coquitlam-bc.jpg)
 
 In this notebook we will explore Data of a canadian superstore that exists in different places around the world and try to gain some insights about the business and the most selling products.
 
