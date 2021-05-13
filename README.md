@@ -13,7 +13,7 @@ Passengers want to check for flights fare prices in different airlines according
 
 
 # [Project 2: Canadian superstore sales analysis](https://github.com/Aellawah/Canadian-superstore-sales-analysis/blob/main/Canadian%20Superstore%20sales.ipynb)
-![](Images/superstore-covid-19-grandview-hwy-vancouver.jpg.png)
+![](Images/BLOG_deliver-better-online-grocery-shopping.jpg)
 
 In this notebook we will explore Data of a canadian superstore that exists in different places around the world and try to gain some insights about the business and the most selling products.
 
