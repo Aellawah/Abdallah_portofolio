@@ -6,11 +6,6 @@ Data science portfolio
 
 Passengers want to check for flights fare prices in different airlines according to number of stops during their fights , so throught this dataset which consists of flights information of different airlines we will train our Machine learning model to predict prices for every flight based on specific features that we can reflect to users.
 
-* We made some data cleaning on the dataset we dropped uneccessary columns , removed null values and changed some datatypes to fit our analysis
-* we made features engineering by reshaping some categorical values by using one hot coding for nominal values and label encoding for ordinal values
-* Seperated years and months and days from date columns to include them in the model
-* We fitted our final data on RandomForestRegressor model
-
 
 # [Project 2: Canadian superstore sales analysis](https://github.com/Aellawah/Canadian-superstore-sales-analysis/blob/main/Canadian%20Superstore%20sales.ipynb)
 ![](Images/BLOG_deliver-better-online-grocery-shopping.jpg)
