@@ -2,7 +2,7 @@ Abdallah_portofolio
 Data science portfolio
 
 # [Project 1: Airline fare prices prediction](https://github.com/Aellawah/Airline-fare-prices-prediction/blob/main/Airline%20prices%20prediction.ipynb)
-
+![](/Images/WWS-AirlinesAirports-720x300.jpg)
 Passengers want to check for flights fare prices in different airlines according to number of stops during their fights , so throught this dataset which consists of flights information of different airlines we will train our Machine learning model to predict prices for every flight based on specific features that we can reflect to users.
 
 * We made some data cleaning on the dataset we dropped uneccessary columns , removed null values and changed some datatypes to fit our analysis
@@ -10,7 +10,6 @@ Passengers want to check for flights fare prices in different airlines according
 * Seperated years and months and days from date columns to include them in the model
 * We fitted our final data on RandomForestRegressor model
 
-![](/Images/WWS-AirlinesAirports-720x300.jpg)
 
 # [Project 2: Canadian superstore sales analysis](https://github.com/Aellawah/Canadian-superstore-sales-analysis/blob/main/Canadian%20Superstore%20sales.ipynb)
 
