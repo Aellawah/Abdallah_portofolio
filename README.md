@@ -10,7 +10,7 @@ Passengers want to check for flights fare prices in different airlines according
 * Seperated years and months and days from date columns to include them in the model
 * We fitted our final data on RandomForestRegressor model
 
-:[](https://github.com/Aellawah/Abdallah_portofolio/blob/main/Images/WWS-AirlinesAirports-720x300.jpg)
+:[](/Images/WWS-AirlinesAirports-720x300.jpg)
 
 # [Project 2: Canadian superstore sales analysis](https://github.com/Aellawah/Canadian-superstore-sales-analysis/blob/main/Canadian%20Superstore%20sales.ipynb)
 
@@ -23,7 +23,6 @@ In this notebook we will explore Data of a canadian superstore that exists in di
 * The store can make more money when sending products to far areas which requires high cost of shipping 
 * Best market per sales is APAC which is Asia pcific markets
 
-:[](https://github.com/Aellawah/Abdallah_portofolio/blob/main/Images/WWS-AirlinesAirports-720x300.jpg)
 
 # [Project 3: Advetising agency users behavior prediction](https://github.com/Aellawah/Advetising-agency-users-behaviorprediction/blob/main/Advertising%20agency%20dataset.ipynb)
 
