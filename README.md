@@ -50,7 +50,7 @@ In this notebook, I will investigate the TMDB mavie dataset, The Movie Database 
 ![](Images/Hero_Cut_700x394.jpg)
 
 In this notebook, we will try to build a model to predict the prices of diamonds based on various features of diamond like carat weight, cut quality ,etc.
-some of the conclusions
+some of the conclusions are:
 
 * After wrangling the data we found that there were no null values in the data ,there were no duplicated rows in the data,There were some outliers in the features which we removed them
 * We constructed features engineering on categorical columns in our dataset to utitlize them in our model
@@ -63,32 +63,32 @@ some of the conclusions
 This Data set contains 3000+ entries for all courses data & subjects in Udemy application which we need to investigate to answer questions about subscribers and courses prices
 How many courses for each subject is udemy offering?
 
-Questions that we want to answer are:
+Some of our conclusions was:
 
-* Which subject has the maximum number of Courses?
-* How many free courses are there for every subject?
-* How many paid courses are there for every subject?
-* What are the Top selling books?
-* What the courses that are pubished in year 2015?
-* What is the maximum number of Subscribers for each level of courses?
-* Is there a relationship between number of lectures and number of subscribers?
-* Is there a relationship between the price of the course and the number of subscribers
-* What is the kind of relationship between price and number of lectures
+* Most selling books are for Web development
+* These are the Book tites that was published in 2015 Concepts of Statistics For Beginners Step by Step','10 Numbers Every Business Owner Should Know','101 Blues riffs - learn how the harmonica superstars do it', ...,'Your Own Site in 45 Min: The Complete Wordpress Course','Your Second Course on Piano: Two Handed Playing','Zend Framework 2: Learn the PHP framework ZF2 from scratch.
+* Maximum number of subscribers is for web develoment subject
+* We can interpret from the visual and pearson correlation coefficient value of 0.15 that there is almost no relationship between number of subscribers and number of lectures
+* We can interpret from the visual and the pearson correlation coefficient value of 0.051 that there is almost no relationship between increase in the price and increaseinn number of subscribers
+* The visual and the pearson correlation of 0.33 shows that here is a moderate relationship between Price and number of lectures which means as the number of lectures increases the price slightly increases
 
 # [Project 7: London housing prices](https://github.com/Aellawah/London-housing-data/blob/main/Londing%20Housing%20Data.ipynb)
 ![](Images/1835445_London-houses-136327763-Nadina-shutterstock.jpg)
 
 This data set contains 13000+ wich is centered around london housing market, it contains alot of additional relevant data related to Averge housing prices , number of houses sold , number of crimes committed
+Some of our conclusions was:
 
-Questions that we want to answer are:
-
-* How many records are there where the crimes are zero in England?
-* What is the Minimum Average price per year in England?
-* What is the Maximum Average price per year in England?
-* What are the Most 5 areas that has high number of crimes?
-* What is the Relationship between the Average Price and the number of houses sold ?
-* What is the Most year that had crime cases?
-* What is the Least year that had crime cases?
-* How many houses were sold in every area?
-* What the is the Top Five areas that sold houses along the years?
-* What the is the Least Five areas that sold houses along the years?
+* The No. of crimes that happened in different areas freqeunts mostly around 0 crimes the most and very low frequents varies from 1000 to 3000
+* The number of houses sold frequents mostly at 0 with the highest frequency and it increases to 20000 with low frequencies
+* There is a moderate correlation between average price and year which indicates the increase of prices slightly when along the years.
+* There is also a moderate correlation between no. of crimes and years which indicates an increase in the no. of crimes along the years.
+* There are 301 Records with zero crimes in England.
+* Minimum average price for a utility in England per year is 52,333.
+* Maximum Average price for a utility in England per year is 248,515.
+* Top 5 areas with hight crimes numbers are barking and dagenham with 2049.0 crimes,barnet with 2893.0 crimes,bexley with 1914.0 crimes,brent with 2937.0 crimes and bromley with 2637.0 crimes.
+* Most year that had crimes is 1996 with total of 542 Crimes.
+* Least year that had crimes is 2020 with total of 45 Crimes.
+* Top five areas with highest sum of houses sold are england with 23077637 ,south east with 4195116,london with 3134378,north west with 2895280 and east of england with 2809800.0.
+* Top five areas with lowest sum of houses sold are city of london with 7586,barking and dagenham with 59498,hackney with 65356,islington= with 68271,camden with 74362.
+* We can interpret from the Visual and pearson correlation of -0.17 that there is a -ve relationship between them , which means Average price has nothing to do with the number of houses sold
+* We can interpret from the Visual after aggregating each unique year with its corresponding total sum of no. of crimes and calculating their pearson correlation coefficient wich represents the Strength of the relationhsip between them which was 0.48 which indicates a +ve relationship between them , which means there is a positive relationship between no. of crimes and the advancement of the years.
