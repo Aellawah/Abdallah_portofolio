@@ -37,7 +37,7 @@ In this project we will be working with an advertising data set, We are trying t
 # [Project 4: The Movie database analysis](https://github.com/Aellawah/The-Movie-database-analysis-/blob/main/TMDB.ipynb)
 ![](Images/clapperboard-movie_101884-274.jpg)
 
-In this notebook, I will investigate the TMDB mavie dataset, The Movie Database (TMDB) is a popular user editable database for movies and TV shows, It has columns for variables such as release year, revenue, budget, director, runtime, and popularity, as well as the IMDB ID for each entry.
+In this notebook, I will investigate the TMDB mavie dataset, The Movie Database (TMDB) is a popular user editable database for movies and TV shows, It has columns for variables such as release year, revenue, budget, director, runtime, and popularity, as well as the IMDB ID for each entry, we have reached alot of conclusions such as:
 
 * we have conluded that people tend to like movies more along the years since the popularity and interest increased from 2005 to 2015 
 * Movies are becoming shorter over the time as the statistics shows that the runtime of the movie decreased along the years from 2005 until 2015 
@@ -50,6 +50,13 @@ In this notebook, I will investigate the TMDB mavie dataset, The Movie Database 
 ![](Images/Hero_Cut_700x394.jpg)
 
 In this notebook, we will try to build a model to predict the prices of diamonds based on various features of diamond like carat weight, cut quality ,etc.
+some of the conclusions
+
+* After wrangling the data we founf that there were no null values in the data ,there were no duplicated rows in the data
+* There were some outliers in the features which we removed them
+* categorical values were unique and not repeated in other forms
+* We have fitted the data after transforming on a Linear regression model which gave us R2 of 89% 
+* We have fitted the data after transforming on a RandomForestRegressor which gave us R2 of 98%
 
 # [Project 6: Udemy courses analysis](https://github.com/Aellawah/Udemy-Dataset/blob/main/Udemy.ipynb)
 ![](Images/udemy-free-courses-banner.png)
