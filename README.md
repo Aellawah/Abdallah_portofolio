@@ -2,7 +2,7 @@ Abdallah_portofolio
 Data science portfolio
 
 
-# [Project 1: KPMG Virtual internship project : Sprocket Central Pty Ltd company Customers segmentation & Recommendation project](https://github.com/Aellawah/Aellawah-Sprocket-Central-Pty-Ltd-company---Customers-Recommendation-project-KPMG-virtual-internship/blob/main/%20Data%20wrangling%20-%20KPMG%20%20internship%20-%20Sprocket%20Central%20Pty%20Ltd%20company%20-%20Customers%20Recommendation%20project%20.ipynb)
+## [Project 1: KPMG Virtual internship project : Sprocket Central Pty Ltd company Customers segmentation & Recommendation project](https://github.com/Aellawah/Aellawah-Sprocket-Central-Pty-Ltd-company---Customers-Recommendation-project-KPMG-virtual-internship/blob/main/%20Data%20wrangling%20-%20KPMG%20%20internship%20-%20Sprocket%20Central%20Pty%20Ltd%20company%20-%20Customers%20Recommendation%20project%20.ipynb)
 ![](/Images/sprocket_central.png)
 
 # [Project 2: Airline fare prices prediction](https://github.com/Aellawah/Airline-fare-prices-prediction/blob/main/Airline%20prices%20prediction.ipynb)
