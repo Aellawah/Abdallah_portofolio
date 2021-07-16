@@ -2,10 +2,13 @@ Abdallah_portofolio
 Data science portfolio
 
 
-## [Project 1: KPMG Virtual internship project : Sprocket Central Pty Ltd company Customers segmentation & Recommendation project](https://github.com/Aellawah/Aellawah-Sprocket-Central-Pty-Ltd-company---Customers-Recommendation-project-KPMG-virtual-internship/blob/main/%20Data%20wrangling%20-%20KPMG%20%20internship%20-%20Sprocket%20Central%20Pty%20Ltd%20company%20-%20Customers%20Recommendation%20project%20.ipynb)
+## [Project 1-1: KPMG Virtual internship project : Sprocket Central Pty Ltd company Customers segmentation & Recommendation project - Data wrangling](https://github.com/Aellawah/Aellawah-Sprocket-Central-Pty-Ltd-company---Customers-Recommendation-project-KPMG-virtual-internship/blob/main/%20Data%20wrangling%20-%20KPMG%20%20internship%20-%20Sprocket%20Central%20Pty%20Ltd%20company%20-%20Customers%20Recommendation%20project%20.ipynb)
+## [Project 1-2: KPMG Virtual internship project : Sprocket Central Pty Ltd company Customers segmentation & Recommendation project - RFM Analysis - Exploratory data analysis](https://github.com/Aellawah/Aellawah-Sprocket-Central-Pty-Ltd-company---Customers-Recommendation-project-KPMG-virtual-internship/blob/main/%20Exploratory%26RFM%20Data%20analysis%20-%20KPMG%20%20internship%20-%20Sprocket%20Central%20Pty%20Ltd%20company%20-%20Customers%20Recommendation%20project%20.ipynb)
+## [Project 1-3: KPMG Virtual internship project : Sprocket Central Pty Ltd company Customers segmentation & Recommendation project - Classification Machine learning Model]
+(https://github.com/Aellawah/Aellawah-Sprocket-Central-Pty-Ltd-company---Customers-Recommendation-project-KPMG-virtual-internship/blob/main/Data%20modeling.ipynb)
 ![](/Images/sprocket_central.png)
 
-# [Project 2: Airline fare prices prediction](https://github.com/Aellawah/Airline-fare-prices-prediction/blob/main/Airline%20prices%20prediction.ipynb)
+## [Project 2: Airline fare prices prediction](https://github.com/Aellawah/Airline-fare-prices-prediction/blob/main/Airline%20prices%20prediction.ipynb)
 ![](/Images/WWS-AirlinesAirports-720x300.jpg)
 
 Passengers want to check for flights fare prices in different airlines according to number of stops during their fights , so throught this dataset which consists of flights information of different airlines we will train our Machine learning model to predict prices for every flight based on specific features that we can reflect to users.
