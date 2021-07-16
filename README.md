@@ -7,6 +7,7 @@ Data science portfolio
 ### [Project 1-3: KPMG Virtual internship project : Sprocket Central Pty Ltd company Customers segmentation & Recommendation project - Classification Machine learning Model](https://github.com/Aellawah/Aellawah-Sprocket-Central-Pty-Ltd-company---Customers-Recommendation-project-KPMG-virtual-internship/blob/main/Data%20modeling.ipynb)
 ![](/Images/sprocket_central.png)
 
+Data wrangling 
 ### [Project 2: Airline fare prices prediction](https://github.com/Aellawah/Airline-fare-prices-prediction/blob/main/Airline%20prices%20prediction.ipynb)
 ![](/Images/WWS-AirlinesAirports-720x300.jpg)
 
