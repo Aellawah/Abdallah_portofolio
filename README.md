@@ -7,6 +7,8 @@ Data science portfolio
 ### [Project 1-3: KPMG Virtual internship project : Sprocket Central Pty Ltd company Customers segmentation & Recommendation project - Classification Machine learning Model](https://github.com/Aellawah/Aellawah-Sprocket-Central-Pty-Ltd-company---Customers-Recommendation-project-KPMG-virtual-internship/blob/main/Data%20modeling.ipynb)
 ![](/Images/sprocket_central.png)
 
+This project is a part of an internship from KPMG Company for a Data Analytics Virtual Experience Program
+
 Sprocket Central Pty Ltd, a medium size bikes & cycling accessories organisation which has a large dataset relating to its customers, but their team is unsure how to effectively analyse it to help optimise its marketing strategy.
 
 * In the first notebook the company provided us with three different datasets it's customers transactions,customers demographics and customers addresses so we conducted a Data wrangling on the three datasets and fixed it's quality issues and eventually joined the three datasets together into one big dataset to start analyzing it and answer client's questions
