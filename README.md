@@ -16,8 +16,20 @@ Sprocket Central Pty Ltd, a medium size bikes & cycling accessories organisation
 
 * In the third notebook the client provided us with a new customers dataset and asked to recommend which customer to target with our marketing campagins so we used a classification machine learning model and trained our old labelled data on it and fitted it on the new customers data to predict which one will be which segment.
 
-### [Project 2: Airline fare prices prediction](https://github.com/Aellawah/Airline-fare-prices-prediction/blob/main/Airline%20prices%20prediction.ipynb)
+### [Project 2-1: Quantium Internship :Chips products data analysis](https://github.com/Aellawah/Quantium-Internship-Chips-products-data-analysis/blob/main/notebooks/Quantium%20Internship%20Module%201%20Chips%20products%20data%20analysis.ipynb)
+### [Project 2-2: Quantium Internship :Chips products Assessing trial period](https://github.com/Aellawah/Quantium-Internship-Chips-products-data-analysis/blob/main/notebooks/Quantium%20Internship%20Module%202%20Chips%20products%20data%20analysis.ipynb)
 ![](/Images/WWS-AirlinesAirports-720x300.jpg)
+
+This project is a part of a virtual internship from Quantium Company
+
+Our client is a company that owns several hypermarkets in the region that sells different types of products, the client wants to better understand the types of customers who purchase Chips and their purchasing behaviour within the region.
+
+* In the first notebook we received two datasets *Transactions dataset & Customers dataset , we have conducted an Exploratory data analysis on the two datasets and provided a conclusion of the business insights.
+
+* For the second notebook the Category Manager for Chips, has asked us to test the impact of the new trial layouts with a data driven recommendation to whether or not the trial layout should be rolled out to all their stores.
+
+### [Project 3: Airline fare prices prediction](https://github.com/Aellawah/Airline-fare-prices-prediction/blob/main/Airline%20prices%20prediction.ipynb)
+![](/Images/5283003399356.jpg)
 
 Passengers want to check for flights fare prices in different airlines according to number of stops during their fights , so throught this dataset which consists of flights information of different airlines we will train our Machine learning model to predict prices for every flight based on specific features that we can reflect to users.
 
@@ -26,7 +38,7 @@ Passengers want to check for flights fare prices in different airlines according
 * we fitted the data after transformation on Random Forest Regressor model which gave us a pretty good results.
 
 
-### [Project 3: Canadian superstore sales analysis](https://github.com/Aellawah/Canadian-superstore-sales-analysis/blob/main/Canadian%20Superstore%20sales.ipynb)
+### [Project 4: Canadian superstore sales analysis](https://github.com/Aellawah/Canadian-superstore-sales-analysis/blob/main/Canadian%20Superstore%20sales.ipynb)
 ![](Images/shopping-cart-supermarket-empty-shelves-40320116.jpg)
 
 In this notebook we will explore Data of a canadian superstore that exists in different places around the world and try to gain some insights about the business and the most selling products.
@@ -40,7 +52,7 @@ Some of our conclusions was:
 * The store can make more money when sending products to far areas which requires high cost of shipping 
 * Best market per sales is APAC which is Asia pcific markets
 
-### [Project 4: Advetising agency users behavior prediction](https://github.com/Aellawah/Advetising-agency-users-behavior-prediction/blob/main/Advertising%20agency%20dataset.ipynb)
+### [Project 5: Advetising agency users behavior prediction](https://github.com/Aellawah/Advetising-agency-users-behavior-prediction/blob/main/Advertising%20agency%20dataset.ipynb)
 ![](Images/marketing.png)
 
 In this project we will be working with an advertising data set, We are trying to enhance the criteria of the customers that we target with our ads so based on specific features about our customers such as Age,income,city,Gender,.. and other features We will create a model that predicts whether or not they will click on an our ads.
@@ -51,7 +63,7 @@ In this project we will be working with an advertising data set, We are trying t
 * The more the person gets old the less income he gets
 * We have fitted our data on a Logistic Regression model and Decision tree classification model
 
-### [Project 5: The Movie database analysis](https://github.com/Aellawah/The-Movie-database-analysis-/blob/main/TMDB.ipynb)
+### [Project 6: The Movie database analysis](https://github.com/Aellawah/The-Movie-database-analysis-/blob/main/TMDB.ipynb)
 ![](Images/clapperboard-movie_101884-274.jpg)
 
 In this notebook, I will investigate the TMDB mavie dataset, The Movie Database (TMDB) is a popular user editable database for movies and TV shows, It has columns for variables such as release year, revenue, budget, director, runtime, and popularity, as well as the IMDB ID for each entry, we have reached alot of conclusions such as:
@@ -63,7 +75,7 @@ In this notebook, I will investigate the TMDB mavie dataset, The Movie Database 
 * Even though it seems that the revenue is increasing with budget on some level, it is clear that some of the most profitable movies had budgets lower than average.
 * It seems that more popular movies produce more revenue. However, some popular movies are not necessarily profitable, and vice versa.
 
-### [Project 6: Diamonds prices prediction](https://github.com/Aellawah/Diamonds-prices-prediction/blob/main/Diamonds%20prices%20prediction.ipynb)
+### [Project 8: Diamonds prices prediction](https://github.com/Aellawah/Diamonds-prices-prediction/blob/main/Diamonds%20prices%20prediction.ipynb)
 ![](Images/Hero_Cut_700x394.jpg)
 
 In this notebook, we will try to build a model to predict the prices of diamonds based on various features of diamond like carat weight, cut quality ,etc.
@@ -74,7 +86,7 @@ some of the conclusions are:
 * After transforming the data We have fitted the data on a Linear regression model which gave us R2 of 89% 
 * We tried to use another model that would enhance the previous results so we used Random Forest Regressor which gave us R2 of 98%
 
-### [Project 7: Udemy courses analysis](https://github.com/Aellawah/Udemy-Dataset/blob/main/Udemy.ipynb)
+### [Project 8: Udemy courses analysis](https://github.com/Aellawah/Udemy-Dataset/blob/main/Udemy.ipynb)
 ![](Images/udemy-free-courses-banner.png)
 
 This Data set contains 3000+ entries for all courses data & subjects in Udemy application which we need to investigate to answer questions about subscribers and courses prices
@@ -89,7 +101,7 @@ Some of our conclusions was:
 * We can interpret from the visual and the pearson correlation coefficient value of 0.051 that there is almost no relationship between increase in the price and increaseinn number of subscribers
 * The visual and the pearson correlation of 0.33 shows that here is a moderate relationship between Price and number of lectures which means as the number of lectures increases the price slightly increases
 
-### [Project 8: London housing prices](https://github.com/Aellawah/London-housing-data/blob/main/Londing%20Housing%20Data.ipynb)
+### [Project 9: London housing prices](https://github.com/Aellawah/London-housing-data/blob/main/Londing%20Housing%20Data.ipynb)
 ![](Images/1835445_London-houses-136327763-Nadina-shutterstock.jpg)
 
 This data set contains 13000+ wich is centered around london housing market, it contains alot of additional relevant data related to Averge housing prices , number of houses sold , number of crimes committed
