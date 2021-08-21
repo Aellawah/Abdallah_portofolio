@@ -18,7 +18,7 @@ Sprocket Central Pty Ltd, a medium size bikes & cycling accessories organisation
 
 ### [Project 2-1: Quantium Internship :Chips products data analysis](https://github.com/Aellawah/Quantium-Internship-Chips-products-data-analysis/blob/main/notebooks/Quantium%20Internship%20Module%201%20Chips%20products%20data%20analysis.ipynb)
 ### [Project 2-2: Quantium Internship :Chips products Assessing trial period](https://github.com/Aellawah/Quantium-Internship-Chips-products-data-analysis/blob/main/notebooks/Quantium%20Internship%20Module%202%20Chips%20products%20data%20analysis.ipynb)
-![](/Images/WWS-AirlinesAirports-720x300.jpg)
+![](/Images/2-potato-chips.jpg)
 
 This project is a part of a virtual internship from Quantium Company
 
@@ -29,7 +29,7 @@ Our client is a company that owns several hypermarkets in the region that sells 
 * For the second notebook the Category Manager for Chips, has asked us to test the impact of the new trial layouts with a data driven recommendation to whether or not the trial layout should be rolled out to all their stores.
 
 ### [Project 3: Airline fare prices prediction](https://github.com/Aellawah/Airline-fare-prices-prediction/blob/main/Airline%20prices%20prediction.ipynb)
-![](/Images/5283003399356.jpg)
+![](/Images/WWS-AirlinesAirports-720x300.jpg)
 
 Passengers want to check for flights fare prices in different airlines according to number of stops during their fights , so throught this dataset which consists of flights information of different airlines we will train our Machine learning model to predict prices for every flight based on specific features that we can reflect to users.
 
