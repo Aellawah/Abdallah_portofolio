@@ -1,9 +1,6 @@
 ### Hi there welcome to my portfolio <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Aellawah/count.svg" />
-</p>
+![](https://komarev.com/ghpvc/?username=Aellawah&color=green)
 
 
 ### [Project 1-1: KPMG Virtual internship project : Sprocket Central Pty Ltd company Customers segmentation & Recommendation project - Data wrangling](https://github.com/Aellawah/Aellawah-Sprocket-Central-Pty-Ltd-company---Customers-Recommendation-project-KPMG-virtual-internship/blob/main/notebooks/KPMG%20internship%20Sprocket%20Central%20Pty%20Ltd%20Company%20Customers%20Recommendation%20Project%20Phase%20%231%20Data%20wrangling.ipynb)
