@@ -1,7 +1,5 @@
-**Abdallah Data science  
-portfolio**
+### Hi there welcome to my portfolio <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-### Hi there welcome to my portfolio :) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Aellawah/count.svg" />
