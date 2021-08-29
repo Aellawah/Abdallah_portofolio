@@ -18,8 +18,7 @@ Sprocket Central Pty Ltd, a medium size bikes & cycling accessories organisation
 
 * In the third notebook the client provided us with a new customers dataset and asked to recommend which customer to target with our marketing campagins so we used a classification machine learning model and trained our old labelled data on it and fitted it on the new customers data to predict which one will be which segment.
 
-### [Project 2-1: Quantium Internship :Chips products data analysis](https://github.com/Aellawah/Quantium-Internship-Chips-products-data-analysis/blob/main/notebooks/Quantium%20Internship%20Module%201%20Chips%20products%20data%20analysis.ipynb)
-### [Project 2-2: Quantium Internship :Chips products Assessing trial period](https://github.com/Aellawah/Quantium-Internship-Chips-products-data-analysis/blob/main/notebooks/Quantium%20Internship%20Module%202%20Chips%20products%20data%20analysis.ipynb)
+### [Project 2: Quantium Internship :Chips products data analysis](https://github.com/Aellawah/Quantium-Internship-Chips-products-data-analysis/blob/main/notebooks/Quantium%20Internship%20Module%201%20Chips%20products%20data%20analysis.ipynb)
 ![](/Images/2-potato-chips.jpg)
 
 This project is a part of a virtual internship from Quantium Company
