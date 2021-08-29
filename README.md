@@ -33,7 +33,7 @@ Our client is a company that owns several hypermarkets in the region that sells 
 In this project we managed to scrap Data analysis jobs In dubai from linkedin using Selenium
 
 ### [Project 4: Indeed jobs web scraping using BeautifuSoup](https://github.com/Aellawah/Indeed-jobs-web-scraping-using-BeautifuSoup/blob/main/Indeed%20jobs%20web%20scraping%20using%20Beautidulsoup/Extracting%20information%20from%20Indeed.com.ipynb)
-![](/Images/Indeed web scraping.png)
+![](/Images/laptop-computer-displaying-logo-indeed-poznan-pol-dec-american-worldwide-employment-related-search-engine-job-listings-170083236.jpg)
 
 In this project we managed to scrap python jobs In dubai from indeed using Beautifulsoup
 
