@@ -25,11 +25,19 @@ This project is a part of a virtual internship from Quantium Company
 
 Our client is a company that owns several hypermarkets in the region that sells different types of products, the client wants to better understand the types of customers who purchase Chips and their purchasing behaviour within the region.
 
-* In the first notebook we received two datasets *Transactions dataset & Customers dataset , we have conducted an Exploratory data analysis on the two datasets and provided a conclusion of the business insights.
+* In this notebook we received two datasets *Transactions dataset & Customers dataset , we have conducted an Exploratory data analysis on the two datasets and provided a conclusion of the business insights.
 
-* For the second notebook the Category Manager for Chips, has asked us to test the impact of the new trial layouts with a data driven recommendation to whether or not the trial layout should be rolled out to all their stores.
+### [Project 3: Linkedin jobs web scraping using selenium](https://github.com/Aellawah/Linkedin-jobs-web-scrapping-using-selenium/blob/main/Extract%20information%20from%20Linkedin.com%20using%20selenium.ipynb)
+![](/Images/recruit-on-linkedin.png)
 
-### [Project 3: Airline fare prices prediction](https://github.com/Aellawah/Airline-fare-prices-prediction/blob/main/Airline%20prices%20prediction.ipynb)
+In this project we managed to scrap Data analysis jobs In dubai from linkedin using Selenium
+
+### [Project 4: Indeed jobs web scraping using BeautifuSoup](https://github.com/Aellawah/Indeed-jobs-web-scraping-using-BeautifuSoup/blob/main/Indeed%20jobs%20web%20scraping%20using%20Beautidulsoup/Extracting%20information%20from%20Indeed.com.ipynb)
+![](/Images/Indeed web scraping.png)
+
+In this project we managed to scrap python jobs In dubai from indeed using Beautifulsoup
+
+### [Project 4: Airline fare prices prediction](https://github.com/Aellawah/Airline-fare-prices-prediction/blob/main/Airline%20prices%20prediction.ipynb)
 ![](/Images/WWS-AirlinesAirports-720x300.jpg)
 
 Passengers want to check for flights fare prices in different airlines according to number of stops during their fights , so throught this dataset which consists of flights information of different airlines we will train our Machine learning model to predict prices for every flight based on specific features that we can reflect to users.
