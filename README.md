@@ -37,7 +37,7 @@ In this project we managed to scrap Data analysis jobs In dubai from linkedin us
 
 In this project we managed to scrap python jobs In dubai from indeed using Beautifulsoup
 
-### [Project 4: Airline fare prices prediction](https://github.com/Aellawah/Airline-fare-prices-prediction/blob/main/Airline%20prices%20prediction.ipynb)
+### [Project 5: Airline fare prices prediction](https://github.com/Aellawah/Airline-fare-prices-prediction/blob/main/Airline%20prices%20prediction.ipynb)
 ![](/Images/WWS-AirlinesAirports-720x300.jpg)
 
 Passengers want to check for flights fare prices in different airlines according to number of stops during their fights , so throught this dataset which consists of flights information of different airlines we will train our Machine learning model to predict prices for every flight based on specific features that we can reflect to users.
@@ -47,7 +47,7 @@ Passengers want to check for flights fare prices in different airlines according
 * we fitted the data after transformation on Random Forest Regressor model which gave us a pretty good results.
 
 
-### [Project 4: Canadian superstore sales analysis](https://github.com/Aellawah/Canadian-superstore-sales-analysis/blob/main/Canadian%20Superstore%20sales.ipynb)
+### [Project 6: Canadian superstore sales analysis](https://github.com/Aellawah/Canadian-superstore-sales-analysis/blob/main/Canadian%20Superstore%20sales.ipynb)
 ![](Images/shopping-cart-supermarket-empty-shelves-40320116.jpg)
 
 In this notebook we will explore Data of a canadian superstore that exists in different places around the world and try to gain some insights about the business and the most selling products.
@@ -61,7 +61,7 @@ Some of our conclusions was:
 * The store can make more money when sending products to far areas which requires high cost of shipping 
 * Best market per sales is APAC which is Asia pcific markets
 
-### [Project 5: Advetising agency users behavior prediction](https://github.com/Aellawah/Advetising-agency-users-behavior-prediction/blob/main/Advertising%20agency%20dataset.ipynb)
+### [Project 7: Advetising agency users behavior prediction](https://github.com/Aellawah/Advetising-agency-users-behavior-prediction/blob/main/Advertising%20agency%20dataset.ipynb)
 ![](Images/marketing.png)
 
 In this project we will be working with an advertising data set, We are trying to enhance the criteria of the customers that we target with our ads so based on specific features about our customers such as Age,income,city,Gender,.. and other features We will create a model that predicts whether or not they will click on an our ads.
@@ -72,7 +72,7 @@ In this project we will be working with an advertising data set, We are trying t
 * The more the person gets old the less income he gets
 * We have fitted our data on a Logistic Regression model and Decision tree classification model
 
-### [Project 6: The Movie database analysis](https://github.com/Aellawah/The-Movie-database-analysis-/blob/main/TMDB.ipynb)
+### [Project 8: The Movie database analysis](https://github.com/Aellawah/The-Movie-database-analysis-/blob/main/TMDB.ipynb)
 ![](Images/clapperboard-movie_101884-274.jpg)
 
 In this notebook, I will investigate the TMDB mavie dataset, The Movie Database (TMDB) is a popular user editable database for movies and TV shows, It has columns for variables such as release year, revenue, budget, director, runtime, and popularity, as well as the IMDB ID for each entry, we have reached alot of conclusions such as:
@@ -84,7 +84,7 @@ In this notebook, I will investigate the TMDB mavie dataset, The Movie Database 
 * Even though it seems that the revenue is increasing with budget on some level, it is clear that some of the most profitable movies had budgets lower than average.
 * It seems that more popular movies produce more revenue. However, some popular movies are not necessarily profitable, and vice versa.
 
-### [Project 8: Diamonds prices prediction](https://github.com/Aellawah/Diamonds-prices-prediction/blob/main/Diamonds%20prices%20prediction.ipynb)
+### [Project 9: Diamonds prices prediction](https://github.com/Aellawah/Diamonds-prices-prediction/blob/main/Diamonds%20prices%20prediction.ipynb)
 ![](Images/Hero_Cut_700x394.jpg)
 
 In this notebook, we will try to build a model to predict the prices of diamonds based on various features of diamond like carat weight, cut quality ,etc.
@@ -95,22 +95,8 @@ some of the conclusions are:
 * After transforming the data We have fitted the data on a Linear regression model which gave us R2 of 89% 
 * We tried to use another model that would enhance the previous results so we used Random Forest Regressor which gave us R2 of 98%
 
-### [Project 8: Udemy courses analysis](https://github.com/Aellawah/Udemy-Dataset/blob/main/Udemy.ipynb)
-![](Images/udemy-free-courses-banner.png)
 
-This Data set contains 3000+ entries for all courses data & subjects in Udemy application which we need to investigate to answer questions about subscribers and courses prices
-How many courses for each subject is udemy offering?
-
-Some of our conclusions was:
-
-* Most selling books are for Web development
-* These are the Book tites that was published in 2015 Concepts of Statistics For Beginners Step by Step','10 Numbers Every Business Owner Should Know','101 Blues riffs - learn how the harmonica superstars do it', ...,'Your Own Site in 45 Min: The Complete Wordpress Course','Your Second Course on Piano: Two Handed Playing','Zend Framework 2: Learn the PHP framework ZF2 from scratch.
-* Maximum number of subscribers is for web develoment subject
-* We can interpret from the visual and pearson correlation coefficient value of 0.15 that there is almost no relationship between number of subscribers and number of lectures
-* We can interpret from the visual and the pearson correlation coefficient value of 0.051 that there is almost no relationship between increase in the price and increaseinn number of subscribers
-* The visual and the pearson correlation of 0.33 shows that here is a moderate relationship between Price and number of lectures which means as the number of lectures increases the price slightly increases
-
-### [Project 9: London housing prices](https://github.com/Aellawah/London-housing-data/blob/main/Londing%20Housing%20Data.ipynb)
+### [Project 10: London housing prices](https://github.com/Aellawah/London-housing-data/blob/main/Londing%20Housing%20Data.ipynb)
 ![](Images/1835445_London-houses-136327763-Nadina-shutterstock.jpg)
 
 This data set contains 13000+ wich is centered around london housing market, it contains alot of additional relevant data related to Averge housing prices , number of houses sold , number of crimes committed
