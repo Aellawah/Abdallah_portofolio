@@ -2,8 +2,8 @@
 
 - I’m Abdallah :relaxed:  
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning ✨ An academic diploma in Data science at Cairo university ✨
-- 💞️ I’m looking to collaborate on Data Science projects 
+- I’m currently learning ✨ An academic diploma in Data science at Cairo university ✨
+- I’m looking to collaborate on Data Science projects 💞️
 - 📫 Reach me on:
 -  Abdallahkhaledellawah@gmail.com
 
