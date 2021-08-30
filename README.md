@@ -1,5 +1,12 @@
 ### Hi there welcome to my portfolio <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
+- I’m Abdallah :relaxed:  
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning ✨ An academic diploma in Data science at Cairo university ✨
+- 💞️ I’m looking to collaborate on Data Science projects 
+- 📫 Reach me on:
+-  Abdallahkhaledellawah@gmail.com
+
 ![](https://komarev.com/ghpvc/?username=Aellawah&color=green)
 
 
@@ -112,8 +119,6 @@ Some of our conclusions was:
 * Top 5 areas with hight crimes numbers are barking and dagenham with 2049.0 crimes,barnet with 2893.0 crimes,bexley with 1914.0 crimes,brent with 2937.0 crimes and bromley with 2637.0 crimes.
 * Most year that had crimes is 1996 with total of 542 Crimes.
 * Least year that had crimes is 2020 with total of 45 Crimes.
-
-
 
 
 #### Find me on social media
