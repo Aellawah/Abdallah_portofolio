@@ -112,3 +112,12 @@ Some of our conclusions was:
 * Top 5 areas with hight crimes numbers are barking and dagenham with 2049.0 crimes,barnet with 2893.0 crimes,bexley with 1914.0 crimes,brent with 2937.0 crimes and bromley with 2637.0 crimes.
 * Most year that had crimes is 1996 with total of 542 Crimes.
 * Least year that had crimes is 2020 with total of 45 Crimes.
+
+
+
+
+#### Find me on social media
+[![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white "Github")](https://github.com/Aellawah "Github")
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white "LinkedIn")](https://linkedin.com/in/abdallah-ellawah-20b14b92/ "LinkedIn")
+[![Facebook](https://img.shields.io/badge/-Facebook-informational?style=flat&labelColor=informational&logo=facebook&logoColor=white "Facebook")](https://www.facebook.com/abdallah.ellawah)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-brightgreen?style=flat&labelColor=brightgreen&logo=whatsapp&logoColor=whiteg "Whatsapp")](https://wa.me/+971566446206?text=Hello)
