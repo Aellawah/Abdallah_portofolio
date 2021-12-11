@@ -61,13 +61,19 @@ Our client is a company that owns several hypermarkets in the region that sells 
 
 * In this notebook we received two datasets **Transactions dataset & Customers dataset** , we have conducted an Exploratory data analysis on the two datasets and provided a conclusion of the business insights.
 
+We have found out that:
+
+Transactions are almost done on sunday since it's a vacation and everyone is free for shopping so the sales amount increases on that day, most of our sales in general are coming from singles/couples,retirees,older families they seem to admire chips more than younger people, most of them are from mainstream segment, people tend to like kettle chips more than any other chips,Kettle Mozzarella Basil & Pesto 175g has the highest sales record
+
+We have made further investigation to find more precise results and found out that the best customers that derive the highest amount of sales to us are older families in budget segment,Retirees & young singles/couples in Mainstream segment so we should increase our marketing effort towards them ,the most admired product for them is (Kettle Mozzarella Basil & Pesto 175 g)
+
 
 ### [Project 5: Canadian superstore sales analysis](https://github.com/Aellawah/Canadian-superstore-sales-analysis/blob/main/Canadian%20Superstore%20sales.ipynb)
 ![](Images/shopping-cart-supermarket-empty-shelves-40320116.jpg)
 
 In this notebook we will explore Data of a canadian superstore that exists in different places around the world and try to gain some insights about the business and the most selling products.
 
-Some of our conclusions was:
+Some of our conclusions were:
 
 * The sales trend over the years is increasing along the from 2011 to 2014
 * Customers prefer to use Standard class & Second class as shipping modes
