@@ -59,7 +59,7 @@ This project is a part of a virtual internship from Quantium Company
 
 Our client is a company that owns several hypermarkets in the region that sells different types of products, the client wants to better understand the types of customers who purchase Chips and their purchasing behaviour within the region.
 
-* In this notebook we received two datasets **Transactions dataset & Customers dataset** , we have conducted an Exploratory data analysis on the two datasets and provided a conclusion of the business insights.
+In this notebook we received two datasets **Transactions dataset & Customers dataset** , we have conducted an Exploratory data analysis on the two datasets and provided a conclusion of the business insights.
 
 We have found out that:
 
