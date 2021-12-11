@@ -1,9 +1,9 @@
 ### Hi there welcome to my portfolio <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 - I’m Abdallah :relaxed:  
-- 👀 I’m interested in Data science
-- I’m currently learning ✨ An academic diploma in Data science at Cairo university ✨
-- I’m looking to collaborate on Data Science projects 💞️
+- 👀 I’m a Data science enthusiaste
+- ✨ I’m currently preparing an academic diploma in Data science at Cairo university ✨
+- I’m looking forward to collaborate on AI projects 💞️
 - 📫 Reach me on:
 -  Abdallahkhaledellawah@gmail.com
 
