@@ -11,9 +11,26 @@
 ![](https://komarev.com/ghpvc/?username=Aellawah&color=green)
 
 
-### [Project 1-1: KPMG Virtual internship project : Sprocket Central Pty Ltd company Customers Classification project - Data wrangling](https://github.com/Aellawah/Aellawah-Sprocket-Central-Pty-Ltd-company---Customers-Recommendation-project-KPMG-virtual-internship/blob/main/notebooks/KPMG%20internship%20Sprocket%20Central%20Pty%20Ltd%20Company%20Customers%20Recommendation%20Project%20Phase%20%231%20Data%20wrangling.ipynb)
-### [Project 1-2: KPMG Virtual internship project : Sprocket Central Pty Ltd company Customers Classification project - RFM Analysis - Exploratory data analysis](https://github.com/Aellawah/Aellawah-Sprocket-Central-Pty-Ltd-company---Customers-Recommendation-project-KPMG-virtual-internship/blob/main/notebooks/KPMG%20internship%20Sprocket%20Central%20Pty%20Ltd%20Company%20Customers%20Recommendation%20Project%20Phase%232%20Exploratory%26%20RFM%20Data%20analysis.ipynb)
-### [Project 1-3: KPMG Virtual internship project : Sprocket Central Pty Ltd company Customers Classification project - Classification Machine learning Model](https://github.com/Aellawah/Aellawah-Sprocket-Central-Pty-Ltd-company---Customers-Recommendation-project-KPMG-virtual-internship/blob/main/notebooks/KPMG%20internship%20Sprocket%20Central%20Pty%20Ltd%20Company%20Customers%20Recommendation%20Project%20Phase%20%233%20Data%20modeling.ipynb)
+
+### [Project 1-1 Used Cars Market Price Estimator : Web Scraping](https://github.com/Aellawah/Used-Cars-Market-Price-Estimator/blob/main/Notebooks/Used%20Cars%20Market%20Price%20Estimator%20Web%20Scraping.ipynb)
+### [Project 1-2 Used Cars Market Price Estimator : Data Analysis & Model Building](https://github.com/Aellawah/Used-Cars-Market-Price-Estimator/blob/main/Notebooks/Used%20Cars%20Market%20Price%20Estimator%20Data%20Analysis%20%26%20Model%20Building.ipynb)
+# ![](/Images/Best_one.jpg)
+
+The Used cars market in the past few years has reached a big improvement in the number of Buyers, Sellers and Investors due to the Economic developments that the country has gone through and the nature of the market it self.
+This has raised alot of questions about the market and the concern to estimate the different types of used cars prices.
+
+For that purpose i conducted a Data Science project that:
+
+- Created a model that predicts the cars prices in the market (MAE - 14k) to help Buyers,Sellers,Investors satisfy the concern of how much is a car
+realtive to it's features according to the market
+- Scraped over than 12000 Ads from www.contactcars.com using python and selenium 
+- Cleaned and Analyzed data to gain insights about the market.
+- Engineerd features from the text of each Ad description & THe Additional features of the cars (Interior Features,Exterior Features,Multimedia Features,Safety Features) to gain more insights about each car
+- Applied several models(Linear regression,Decision tree,Random Forest) to reach the best model
+
+### [Project 2-1: KPMG Virtual internship project : Sprocket Central Pty Ltd company Customers Classification project - Data wrangling](https://github.com/Aellawah/Aellawah-Sprocket-Central-Pty-Ltd-company---Customers-Recommendation-project-KPMG-virtual-internship/blob/main/notebooks/KPMG%20internship%20Sprocket%20Central%20Pty%20Ltd%20Company%20Customers%20Recommendation%20Project%20Phase%20%231%20Data%20wrangling.ipynb)
+### [Project 2-2: KPMG Virtual internship project : Sprocket Central Pty Ltd company Customers Classification project - RFM Analysis - Exploratory data analysis](https://github.com/Aellawah/Aellawah-Sprocket-Central-Pty-Ltd-company---Customers-Recommendation-project-KPMG-virtual-internship/blob/main/notebooks/KPMG%20internship%20Sprocket%20Central%20Pty%20Ltd%20Company%20Customers%20Recommendation%20Project%20Phase%232%20Exploratory%26%20RFM%20Data%20analysis.ipynb)
+### [Project 2-3: KPMG Virtual internship project : Sprocket Central Pty Ltd company Customers Classification project - Classification Machine learning Model](https://github.com/Aellawah/Aellawah-Sprocket-Central-Pty-Ltd-company---Customers-Recommendation-project-KPMG-virtual-internship/blob/main/notebooks/KPMG%20internship%20Sprocket%20Central%20Pty%20Ltd%20Company%20Customers%20Recommendation%20Project%20Phase%20%233%20Data%20modeling.ipynb)
 ![](/Images/sprocket_central.png)
 
 This project is a part of a virtual internship from KPMG Company
@@ -26,7 +43,16 @@ Sprocket Central Pty Ltd, a medium size bikes & cycling accessories organisation
 
 * In the third notebook the client provided us with a new customers dataset and asked to recommend which customer to target with our marketing campagins so we used a classification machine learning model and trained our old labelled data on it and fitted it on the new customers data to predict which one will be which segment.
 
-### [Project 2: Quantium Internship :Chips products data analysis](https://github.com/Aellawah/Quantium-Internship-Chips-products-data-analysis/blob/main/notebooks/Quantium%20Internship%20Module%201%20Chips%20products%20data%20analysis.ipynb)
+### [Project 3: Linkedin-jobs-Description-Word-embeddings-project]
+![](/Images/recruit-on-linkedin.png)
+
+I created a word2vec model that takes in a job title and outputs a list of requirements related to that position, it helps the recruiters and the job searchers to be aware of the recent tools and technologies required in the market for different positions
+* We Scraped around 1200+ jobs applications and extracted the Description column as a seperate text
+* Conducted a NLP preprocessing techniques on the text data
+* Finally applied the word2vec model and got an accurate results as outcome
+
+
+### [Project 4: Quantium Internship :Chips products data analysis](https://github.com/Aellawah/Quantium-Internship-Chips-products-data-analysis/blob/main/notebooks/Quantium%20Internship%20Module%201%20Chips%20products%20data%20analysis.ipynb)
 ![](/Images/2-potato-chips.jpg)
 
 This project is a part of a virtual internship from Quantium Company
@@ -35,27 +61,8 @@ Our client is a company that owns several hypermarkets in the region that sells 
 
 * In this notebook we received two datasets **Transactions dataset & Customers dataset** , we have conducted an Exploratory data analysis on the two datasets and provided a conclusion of the business insights.
 
-### [Project 3: Linkedin jobs web scraping using selenium](https://github.com/Aellawah/Linkedin-jobs-web-scrapping-using-selenium/blob/main/Extract%20information%20from%20Linkedin.com%20using%20selenium.ipynb)
-![](/Images/recruit-on-linkedin.png)
 
-In this project we managed to scrap Data analysis jobs In dubai from linkedin using Selenium
-
-### [Project 4: Indeed jobs web scraping using BeautifuSoup](https://github.com/Aellawah/Indeed-jobs-web-scraping-using-BeautifuSoup/blob/main/Indeed%20jobs%20web%20scraping%20using%20Beautidulsoup/Extracting%20information%20from%20Indeed.com.ipynb)
-![](/Images/laptop-computer-displaying-logo-indeed-poznan-pol-dec-american-worldwide-employment-related-search-engine-job-listings-170083236.jpg)
-
-In this project we managed to scrap python jobs In dubai from indeed using Beautifulsoup
-
-### [Project 5: Airline fare prices prediction](https://github.com/Aellawah/Airline-fare-prices-prediction/blob/main/Airline%20prices%20prediction.ipynb)
-![](/Images/WWS-AirlinesAirports-720x300.jpg)
-
-Passengers want to check for flights fare prices in different airlines according to number of stops during their fights , so throught this dataset which consists of flights information of different airlines we will train our Machine learning model to predict prices for every flight based on specific features that we can reflect to users.
-
-* After wrangling the data we have changed the data columns types to fit our analysis and removed null values records.
-* we applied feature engineering on several columns to extract values from them and include them in our machine learning model such as dividing date columns into years months days and seperating categorical columns into seperate values that can be used idividually in our model, used label encoding for ordinal data and hot encoding for nominal data
-* we fitted the data after transformation on Random Forest Regressor model which gave us a pretty good results.
-
-
-### [Project 6: Canadian superstore sales analysis](https://github.com/Aellawah/Canadian-superstore-sales-analysis/blob/main/Canadian%20Superstore%20sales.ipynb)
+### [Project 5: Canadian superstore sales analysis](https://github.com/Aellawah/Canadian-superstore-sales-analysis/blob/main/Canadian%20Superstore%20sales.ipynb)
 ![](Images/shopping-cart-supermarket-empty-shelves-40320116.jpg)
 
 In this notebook we will explore Data of a canadian superstore that exists in different places around the world and try to gain some insights about the business and the most selling products.
@@ -69,57 +76,9 @@ Some of our conclusions was:
 * The store can make more money when sending products to far areas which requires high cost of shipping 
 * Best market per sales is APAC which is Asia pcific markets
 
-### [Project 7: Advetising agency users behavior prediction](https://github.com/Aellawah/Advetising-agency-users-behavior-prediction/blob/main/Advertising%20agency%20dataset.ipynb)
-![](Images/marketing.png)
-
-In this project we will be working with an advertising data set, We are trying to enhance the criteria of the customers that we target with our ads so based on specific features about our customers such as Age,income,city,Gender,.. and other features We will create a model that predicts whether or not they will click on an our ads.
-
-* After wrangling our data we found was some outliers in 'Area income' column which we removed them to enhance our model
-* We have noticed that older people tend to click more on our ads than youth
-* The more the time people spend on internet the likely they click on our ads
-* The more the person gets old the less income he gets
-* We have fitted our data on a Logistic Regression model and Decision tree classification model
-
-### [Project 8: The Movie database analysis](https://github.com/Aellawah/The-Movie-database-analysis-/blob/main/TMDB.ipynb)
-![](Images/clapperboard-movie_101884-274.jpg)
-
-In this notebook, I will investigate the TMDB mavie dataset, The Movie Database (TMDB) is a popular user editable database for movies and TV shows, It has columns for variables such as release year, revenue, budget, director, runtime, and popularity, as well as the IMDB ID for each entry, we have reached alot of conclusions such as:
-
-* we have conluded that people tend to like movies more along the years since the popularity and interest increased from 2005 to 2015 
-* Movies are becoming shorter over the time as the statistics shows that the runtime of the movie decreased along the years from 2005 until 2015 
-* Revenues from movies are increasing along the years which is also related to popularity of the movies along the years
-* Number of movies produced every year increased along the years
-* Even though it seems that the revenue is increasing with budget on some level, it is clear that some of the most profitable movies had budgets lower than average.
-* It seems that more popular movies produce more revenue. However, some popular movies are not necessarily profitable, and vice versa.
-
-### [Project 9: Diamonds prices prediction](https://github.com/Aellawah/Diamonds-prices-prediction/blob/main/Diamonds%20prices%20prediction.ipynb)
-![](Images/Hero_Cut_700x394.jpg)
-
-In this notebook, we will try to build a model to predict the prices of diamonds based on various features of diamond like carat weight, cut quality ,etc.
-some of the conclusions are:
-
-* After wrangling the data we found that there were no null values in the data ,there were no duplicated rows in the data,There were some outliers in the features which we removed them
-* We constructed features engineering on categorical columns in our dataset to utitlize them in our model
-* After transforming the data We have fitted the data on a Linear regression model which gave us R2 of 89% 
-* We tried to use another model that would enhance the previous results so we used Random Forest Regressor which gave us R2 of 98%
 
 
-### [Project 10: London housing prices](https://github.com/Aellawah/London-housing-data/blob/main/Londing%20Housing%20Data.ipynb)
-![](Images/1835445_London-houses-136327763-Nadina-shutterstock.jpg)
 
-This data set contains 13000+ wich is centered around london housing market, it contains alot of additional relevant data related to Averge housing prices , number of houses sold , number of crimes committed
-Some of our conclusions was:
-
-* The No. of crimes that happened in different areas freqeunts mostly around 0 crimes the most and very low frequents varies from 1000 to 3000
-* The number of houses sold frequents mostly at 0 with the highest frequency and it increases to 20000 with low frequencies
-* There is a moderate correlation between average price and year which indicates the increase of prices slightly when along the years.
-* There is also a moderate correlation between no. of crimes and years which indicates an increase in the no. of crimes along the years.
-* There are 301 Records with zero crimes in England.
-* Minimum average price for a utility in England per year is 52,333.
-* Maximum Average price for a utility in England per year is 248,515.
-* Top 5 areas with hight crimes numbers are barking and dagenham with 2049.0 crimes,barnet with 2893.0 crimes,bexley with 1914.0 crimes,brent with 2937.0 crimes and bromley with 2637.0 crimes.
-* Most year that had crimes is 1996 with total of 542 Crimes.
-* Least year that had crimes is 2020 with total of 45 Crimes.
 
 
 #### Find me on social media
