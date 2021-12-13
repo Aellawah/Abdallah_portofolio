@@ -1,5 +1,7 @@
 ### Hi there welcome to my portfolio <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
+<img src="https://github.com/Aellawah/Aellawah/blob/main/logo/Abdallah%20El-lawah-logos2.jpeg">
+
 - I’m Abdallah :relaxed:  
 - 👀 I’m a Data science enthusiaste
 - ✨ I’m currently preparing an academic diploma in Data science at Cairo university ✨
