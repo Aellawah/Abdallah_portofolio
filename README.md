@@ -20,9 +20,7 @@ Abdallahkhaledellawah@gmail.com :e-mail:
 
 ![](https://komarev.com/ghpvc/?username=Aellawah&color=green)
 
-These are some of my projects
-follow me for more https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white "Github")](https://github.com/Aellawah "Github")
-
+These are some of my projects, follow me here [![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white "Github")](https://github.com/Aellawah "Github") for more awesome stuff
 
 
 ### [Project 1-1 Used Cars Market Price Estimator : Web Scraping](https://github.com/Aellawah/Used-Cars-Market-Price-Estimator/blob/main/Notebooks/Used%20Cars%20Market%20Price%20Estimator%20Web%20Scraping.ipynb)
