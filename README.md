@@ -12,8 +12,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Aellawah&color=green)
 
-These are some of my projects if you liked it please Follow me on Github 💞️<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+These are some of my projects if you liked it please give me a follow here 
+<a class="github-button" href="https://github.com/ntkme" aria-label="Follow @ntkme on GitHub">Follow @ntkme</a>
 
 
 
