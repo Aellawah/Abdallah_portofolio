@@ -13,7 +13,7 @@
 ![](https://komarev.com/ghpvc/?username=Aellawah&color=green)
 
 These are some of my projects if you liked it please give me a follow here 
-<a class="github-button" href="https://github.com/ntkme" aria-label="Follow @ntkme on GitHub">Follow @ntkme</a>
+<a class="github-button" href="https://github.com/Aellawah" aria-label="Follow @Aellawah on GitHub">Follow @Aellawah</a>
 
 
 
