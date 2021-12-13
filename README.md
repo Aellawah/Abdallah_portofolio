@@ -1,6 +1,6 @@
 ### Hi there welcome to my portfolio <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img src="https://github.com/Aellawah/Aellawah/blob/main/logo/Abdallah%20El-lawah-logos2.jpeg">
+<img src="https://github.com/Aellawah/Aellawah/blob/main/logo/5320260-kg.jpg">
 
 - I’m Abdallah :relaxed:  
 - 👀 I’m a Data science enthusiaste
