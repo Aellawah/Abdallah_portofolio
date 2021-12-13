@@ -14,7 +14,6 @@
 
 These are some of my projects if you liked it please Follow me on Github 💞️<!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-<!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/Aellawah" data-size="large" aria-label="Follow @Aellawah on GitHub">Follow @Aellawah</a>
 
 
