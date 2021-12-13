@@ -12,6 +12,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Aellawah&color=green)
 
+These are some of my projects if you liked it please Follow me on Github 💞️ <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=61b6d6630e39a90019f4e744&product=inline-follow-buttons" async="async"></script>
+
 
 
 ### [Project 1-1 Used Cars Market Price Estimator : Web Scraping](https://github.com/Aellawah/Used-Cars-Market-Price-Estimator/blob/main/Notebooks/Used%20Cars%20Market%20Price%20Estimator%20Web%20Scraping.ipynb)
