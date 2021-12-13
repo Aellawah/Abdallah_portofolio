@@ -25,7 +25,7 @@ These are some of my projects, follow me here [![Github](https://img.shields.io/
 
 ### [Project 1-1 Used Cars Market Price Estimator : Web Scraping](https://github.com/Aellawah/Used-Cars-Market-Price-Estimator/blob/main/Notebooks/Used%20Cars%20Market%20Price%20Estimator%20Web%20Scraping.ipynb)
 ### [Project 1-2 Used Cars Market Price Estimator : Data Analysis & Model Building](https://github.com/Aellawah/Used-Cars-Market-Price-Estimator/blob/main/Notebooks/Used%20Cars%20Market%20Price%20Estimator%20Data%20Analysis%20%26%20Model%20Building.ipynb)
-# ![](/Images/100198028_2_2.jpg)
+# ![](/Images/100198028_2_2_2.jpg)
 
 The Used cars market in the past few years has reached a big improvement in the number of Buyers, Sellers and Investors due to the Economic developments that the country has gone through and the nature of the market it self.
 This has raised alot of questions about the market and the concern to estimate the different types of used cars prices.
