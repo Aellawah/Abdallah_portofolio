@@ -8,6 +8,11 @@
 - I’m looking forward to collaborate on AI projects 💞️
 - 📫 Reach me on:
 -  Abdallahkhaledellawah@gmail.com
+[![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white "Github")](https://github.com/Aellawah "Github")
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white "LinkedIn")](https://linkedin.com/in/abdallah-ellawah-20b14b92/ "LinkedIn")
+[![Facebook](https://img.shields.io/badge/-Facebook-informational?style=flat&labelColor=informational&logo=facebook&logoColor=white "Facebook")](https://www.facebook.com/abdallah.ellawah)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-brightgreen?style=flat&labelColor=brightgreen&logo=whatsapp&logoColor=whiteg "Whatsapp")](https://wa.me/+971566446206?text=Hello)
+
 
 
 ![](https://komarev.com/ghpvc/?username=Aellawah&color=green)
