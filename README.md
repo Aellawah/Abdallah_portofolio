@@ -91,14 +91,3 @@ Some of our conclusions were:
 * People tend to buy more by the end of the year since the statistics shows that people buy more in the 4th quarter of each year
 * The store can make more money when sending products to far areas which requires high cost of shipping 
 * Best market per sales is APAC which is Asia pcific markets
-
-
-
-
-
-
-#### Find me on social media
-[![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white "Github")](https://github.com/Aellawah "Github")
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white "LinkedIn")](https://linkedin.com/in/abdallah-ellawah-20b14b92/ "LinkedIn")
-[![Facebook](https://img.shields.io/badge/-Facebook-informational?style=flat&labelColor=informational&logo=facebook&logoColor=white "Facebook")](https://www.facebook.com/abdallah.ellawah)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-brightgreen?style=flat&labelColor=brightgreen&logo=whatsapp&logoColor=whiteg "Whatsapp")](https://wa.me/+971566446206?text=Hello)
