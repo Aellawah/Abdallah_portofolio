@@ -56,7 +56,7 @@ Sprocket Central Pty Ltd, a medium size bikes & cycling accessories organisation
 
 - In the third notebook the client provided us with a new customers dataset and asked to recommend which customer to target with our marketing campagins so we used a classification machine learning model and trained our old labelled data on it and fitted it on the new customers data to predict which one will be which segment.
 
-### [Project 3: Linkedin-jobs-Description-Word-embeddings-project](https://github.com/Aellawah/Linkedin-jobs-Description-Word-embeddings-project/blob/main/Linkedin-word2vec-Abdallah.ipynb)
+### [Project 3: Linkedin-jobs-Description-Word-embeddings-project](https://github.com/Aellawah/Linkedin-jobs-Description-Word-embeddings-project/blob/main/Notebook/Linkedin-word2vec-Abdallah.ipynb)
 ![](/Images/recruit-on-linkedin.png)
 
 I created a word2vec model that takes in a job title and outputs a list of requirements related to that position, it helps the recruiters and the job searchers to be aware of the recent tools and technologies required in the market for different positions
