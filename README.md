@@ -64,7 +64,7 @@ I created a word2vec model that takes in a job title and outputs a list of requi
 
 
 ### [Project 4: Quantium Internship :Chips products data analysis](https://github.com/Aellawah/Quantium-Internship-Chips-products-data-analysis/blob/main/notebooks/Quantium%20Internship%20Module%201%20Chips%20products%20data%20analysis.ipynb)
-![](/Images/2-potato-chips.jpg)
+<img src="https://github.com/Aellawah/Quantium-Internship-Chips-products-data-analysis/blob/main/Data%20files/Chips.jpeg">
 
 This project is a part of a virtual internship from Quantium Company
 
