@@ -44,15 +44,17 @@ realtive to it's features according to the market
 ### [Project 2-3: KPMG Virtual internship project : Sprocket Central Pty Ltd company Customers Classification project - Classification Machine learning Model](https://github.com/Aellawah/Aellawah-Sprocket-Central-Pty-Ltd-company---Customers-Recommendation-project-KPMG-virtual-internship/blob/main/notebooks/KPMG%20internship%20Sprocket%20Central%20Pty%20Ltd%20Company%20Customers%20Recommendation%20Project%20Phase%20%233%20Data%20modeling.ipynb)
 ![](/Images/sprocket_central.png)
 
-This project is a part of a virtual internship from KPMG Company
+This project is part of a virtual internship from KPMG Company
 
 Sprocket Central Pty Ltd, a medium size bikes & cycling accessories organisation which has a large dataset relating to its customers, but their team is unsure how to effectively analyse it to help optimise its marketing strategy.
 
-* In the first notebook the company provided us with three different datasets it's customers transactions,customers demographics and customers addresses so we conducted a Data wrangling on the three datasets and fixed it's quality issues and eventually joined the three datasets together into one big dataset to start analyzing it and answer client's questions
+- Created a model that predicts the class of each customer (Platinum,Gold,Silver,Bronze) with 99% accuracy to help the company segment it's customers and enhance it's marketing strategy
 
-* In the second notebook we made an Exploratory data analysis on the joined datasets and identfied specific trends , and finally i segmented the customers into Four different segments (Platinum,Gold,Silver,Bronze) throught a RFM analysis
+- In the first notebook the company provided us with three different datasets it's customers transactions,customers demographics and customers addresses so we conducted a Data wrangling on the three datasets and fixed it's quality issues and eventually joined the three datasets together into one big dataset to start analyzing it and answer client's questions
 
-* In the third notebook the client provided us with a new customers dataset and asked to recommend which customer to target with our marketing campagins so we used a classification machine learning model and trained our old labelled data on it and fitted it on the new customers data to predict which one will be which segment.
+- In the second notebook we made an Exploratory data analysis on the joined datasets and identfied specific trends , and finally i segmented the customers into Four different segments (Platinum,Gold,Silver,Bronze) throught a RFM analysis
+
+- In the third notebook the client provided us with a new customers dataset and asked to recommend which customer to target with our marketing campagins so we used a classification machine learning model and trained our old labelled data on it and fitted it on the new customers data to predict which one will be which segment.
 
 ### [Project 3: Linkedin-jobs-Description-Word-embeddings-project](https://github.com/Aellawah/Linkedin-jobs-Description-Word-embeddings-project/blob/main/Linkedin-word2vec-Abdallah.ipynb)
 ![](/Images/recruit-on-linkedin.png)
@@ -70,25 +72,17 @@ This project is a part of a virtual internship from Quantium Company
 
 Our client is a company that owns several hypermarkets in the region that sells different types of products, the client wants to better understand the types of customers who purchase Chips and their purchasing behaviour within the region.
 
-In this notebook we received two datasets **Transactions dataset & Customers dataset** , we have conducted an Exploratory data analysis on the two datasets and provided a conclusion of the business insights.
-
-We have found out that:
-
-- Transactions are almost done on sunday since it's a vacation and everyone is free for shopping so the sales amount increases on that day, most of our sales in general are coming from singles/couples,retirees,older families they seem to admire chips more than younger people, most of them are from mainstream segment, people tend to like kettle chips more than any other chips,Kettle Mozzarella Basil & Pesto 175g has the highest sales record
-
-- We have made further investigation to find more precise results and found out that the best customers that derive the highest amount of sales to us are older families in budget segment,Retirees & young singles/couples in Mainstream segment so we should increase our marketing effort towards them ,the most admired product for them is (Kettle Mozzarella Basil & Pesto 175 g)
-
+- Generated thorough insights from the data that will help the company to improve it's business
+- Applied data cleaning on both datasets
+- Featured Engineered some impportnant columns from the data to reveal more insights
+- Joined datasets & Applied Exploratory Data Analysis(Univariate analysis,Bivariate analysis,Multivariate analysis)
 
 ### [Project 5: Canadian superstore sales analysis](https://github.com/Aellawah/Canadian-superstore-sales-analysis/blob/main/Canadian%20Superstore%20sales.ipynb)
 ![](Images/shopping-cart-supermarket-empty-shelves-40320116.jpg)
 
 In this notebook we will explore Data of a canadian superstore that exists in different places around the world and try to gain some insights about the business and the most selling products.
 
-Some of our conclusions were:
-
-* The sales trend over the years is increasing along the from 2011 to 2014
-* Customers prefer to use Standard class & Second class as shipping modes
-* The most profitable category is Technology & the most profitable sub category is Copiers
-* People tend to buy more by the end of the year since the statistics shows that people buy more in the 4th quarter of each year
-* The store can make more money when sending products to far areas which requires high cost of shipping 
-* Best market per sales is APAC which is Asia pcific markets
+- Answered Some key questions related to the business that would help the stakeholders
+- Applied some data cleaning to get the data inshape
+- Featued Engineered important information from existing columns
+- Revealed some relationships among features
