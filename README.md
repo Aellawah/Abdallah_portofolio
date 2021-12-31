@@ -17,7 +17,6 @@ Abdallahkhaledellawah@gmail.com :e-mail:
 
 
 
-
 ![](https://komarev.com/ghpvc/?username=Aellawah&color=green)
 
 These are some of my projects, follow me here [![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white "Github")](https://github.com/Aellawah "Github") for more awesome stuff
